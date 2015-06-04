@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorRace", "VectorRace\VectorRace.csproj", "{1F65380F-0F7F-447B-829E-C3A9DDCEC823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Release|iPhone.Build.0 = Release|iPhone
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1F65380F-0F7F-447B-829E-C3A9DDCEC823}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
